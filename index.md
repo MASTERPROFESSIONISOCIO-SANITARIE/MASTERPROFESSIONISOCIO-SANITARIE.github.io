@@ -1,10 +1,9 @@
 
-Alcuni Project Work di particolare rilievo, prodotti nell’ambito dei Master Universitari, sono stati oggetto di pubblicazione scientifica, sia in riviste accreditate (nazionali ed internazionali), sia in convegni nazionali di settore.  
+### Alcuni Project Work di particolare rilievo, prodotti nell’ambito dei Master Universitari, sono stati oggetto di pubblicazione scientifica, sia in riviste accreditate (nazionali ed internazionali), sia in convegni nazionali di settore. 
+
 Recenti esempi di tali pubblicazioni sono:
 
 ## Master in “Infermieristica in Area Critica”
-
-Alcuni Project Work di particolare rilievo, prodotti nell’ambito del Master Universitario, sono stati oggetto di pubblicazione scientifica, sia in riviste accreditate (nazionali ed internazionali), sia in convegni nazionali di settore.  Recenti esempi di tali pubblicazioni sono:
 
 Sulla, F., La Chimia, M., Barbieri, L., Gigantiello, A., Iraci, C., Virgili, G., Artioli, G., Sarli, L (2018). A first contribution to the validation of the Italian version of the Behavioral Pain Scale in sedated, intubated, and mechanically ventilated paediatric patients. Acta Bio Med 89 (7-S), 19-4.
   
